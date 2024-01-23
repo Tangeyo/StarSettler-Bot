@@ -1,8 +1,6 @@
 # StarSettler-Bot
 
-## Product Description
-
-The StarSettler will be a support system designed to guide the resource logging of astronauts within their progress of exploring outer-space. With the establishment of sustainable colonies on planets, StarSettler is useful in that we can keep track of how many resources each astronaut has before embarking on their journeys.
+The StarSettler is a support system designed to guide the resource logging of astronauts within their progress of exploring outer-space. With the establishment of sustainable colonies on planets, StarSettler is useful in that we can keep track of how many resources each astronaut has before embarking on their journeys.
 
 ## Unique features:
 ### Resource Allocation Optimization:
